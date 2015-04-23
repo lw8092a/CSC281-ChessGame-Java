@@ -1,4 +1,4 @@
 
-public class Knight {
+public class Knight extends Piece{
 
 }
